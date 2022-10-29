@@ -1,1 +1,3 @@
-# CIS445_545_HW3
+Created Dalton_profile.html
+Created Dalton_design.css
+Added a background.jpg image
